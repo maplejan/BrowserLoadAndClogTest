@@ -1,0 +1,1688 @@
+{
+    "OS X 10.9.3":{
+        "Chrome 36.0.1985.143":[
+            {
+                "info":"大量css文件资源加载开始",
+                "time":1408522253006,
+                "moment":7
+            },
+            {
+                "info":"css-0-2000 Load Event",
+                "time":1408522255052,
+                "moment":2053
+            },
+            {
+                "info":"css-0-2001 Load Event",
+                "time":1408522255084,
+                "moment":2085
+            },
+            {
+                "info":"css-0-2002 Load Event",
+                "time":1408522255099,
+                "moment":2100
+            },
+            {
+                "info":"css-0-2003 Load Event",
+                "time":1408522255122,
+                "moment":2123
+            },
+            {
+                "info":"css-0-2004 Load Event",
+                "time":1408522255165,
+                "moment":2166
+            },
+            {
+                "info":"css-0-2005 Load Event",
+                "time":1408522255192,
+                "moment":2193
+            },
+            {
+                "info":"css-0-2006 Load Event",
+                "time":1408522257060,
+                "moment":4061
+            },
+            {
+                "info":"css-1-2000 Load Event",
+                "time":1408522257084,
+                "moment":4085
+            },
+            {
+                "info":"css-1-2001 Load Event",
+                "time":1408522257105,
+                "moment":4106
+            },
+            {
+                "info":"css-1-2002 Load Event",
+                "time":1408522257130,
+                "moment":4131
+            },
+            {
+                "info":"css-1-2003 Load Event",
+                "time":1408522257175,
+                "moment":4176
+            },
+            {
+                "info":"css-1-2004 Load Event",
+                "time":1408522257198,
+                "moment":4199
+            },
+            {
+                "info":"css-1-2005 Load Event",
+                "time":1408522259070,
+                "moment":6071
+            },
+            {
+                "info":"css-1-2006 Load Event",
+                "time":1408522259096,
+                "moment":6097
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408522259110,
+                "moment":6111
+            },
+            {
+                "info":"css-2-2001 Load Event",
+                "time":1408522259136,
+                "moment":6137
+            },
+            {
+                "info":"css-2-2002 Load Event",
+                "time":1408522259183,
+                "moment":6184
+            },
+            {
+                "info":"css-2-2003 Load Event",
+                "time":1408522259205,
+                "moment":6206
+            },
+            {
+                "info":"css-2-2004 Load Event",
+                "time":1408522261078,
+                "moment":8079
+            },
+            {
+                "info":"css-2-2005 Load Event",
+                "time":1408522261106,
+                "moment":8107
+            },
+            {
+                "info":"大量css文件资源加载完成",
+                "time":1408522261119,
+                "moment":8120
+            },
+            {
+                "info":"head标签结束",
+                "time":1408522261120,
+                "moment":8121
+            },
+            {
+                "info":"body标签开始",
+                "time":1408522261121,
+                "moment":8122
+            },
+            {
+                "info":"css-2-2006 Load Event",
+                "time":1408522261125,
+                "moment":8126
+            },
+            {
+                "info":"css-3-2000 Load Event",
+                "time":1408522261137,
+                "moment":8138
+            },
+            {
+                "info":"css-3-2001 Load Event",
+                "time":1408522261187,
+                "moment":8188
+            },
+            {
+                "info":"css-3-2003 Load Event",
+                "time":1408522261213,
+                "moment":8214
+            },
+            {
+                "info":"css-3-2004 Load Event",
+                "time":1408522263085,
+                "moment":10086
+            },
+            {
+                "info":"css-3-2002 Load Event",
+                "time":1408522263112,
+                "moment":10113
+            },
+            {
+                "info":"css-3-2005 Load Event",
+                "time":1408522263128,
+                "moment":10129
+            },
+            {
+                "info":"body标签结束",
+                "time":1408522263149,
+                "moment":10150
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408522263150,
+                "moment":10151
+            },
+            {
+                "info":"css-3-2006 Load Event",
+                "time":1408522263214,
+                "moment":10215
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408522263215,
+                "moment":10216
+            },
+            {
+                "info":"END",
+                "time":1408522263216,
+                "moment":10217
+            }
+        ],
+        "Safari 7.0.4 (9537.76.4)":[
+            {
+                "info":"大量css文件资源加载开始",
+                "time":1408522893412,
+                "moment":0
+            },
+            {
+                "info":"css-0-2000 Load Event",
+                "time":1408522895520,
+                "moment":2108
+            },
+            {
+                "info":"css-0-2003 Load Event",
+                "time":1408522895523,
+                "moment":2111
+            },
+            {
+                "info":"css-0-2002 Load Event",
+                "time":1408522895527,
+                "moment":2115
+            },
+            {
+                "info":"css-0-2001 Load Event",
+                "time":1408522895530,
+                "moment":2118
+            },
+            {
+                "info":"css-0-2004 Load Event",
+                "time":1408522895530,
+                "moment":2118
+            },
+            {
+                "info":"css-0-2005 Load Event",
+                "time":1408522895536,
+                "moment":2124
+            },
+            {
+                "info":"css-0-2006 Load Event",
+                "time":1408522897529,
+                "moment":4117
+            },
+            {
+                "info":"css-1-2001 Load Event",
+                "time":1408522897534,
+                "moment":4122
+            },
+            {
+                "info":"css-1-2000 Load Event",
+                "time":1408522897534,
+                "moment":4122
+            },
+            {
+                "info":"css-1-2002 Load Event",
+                "time":1408522897536,
+                "moment":4124
+            },
+            {
+                "info":"css-1-2003 Load Event",
+                "time":1408522897538,
+                "moment":4126
+            },
+            {
+                "info":"css-1-2004 Load Event",
+                "time":1408522897544,
+                "moment":4132
+            },
+            {
+                "info":"css-1-2005 Load Event",
+                "time":1408522899538,
+                "moment":6126
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408522899540,
+                "moment":6128
+            },
+            {
+                "info":"css-2-2001 Load Event",
+                "time":1408522899542,
+                "moment":6130
+            },
+            {
+                "info":"css-2-2002 Load Event",
+                "time":1408522899543,
+                "moment":6131
+            },
+            {
+                "info":"css-1-2006 Load Event",
+                "time":1408522899546,
+                "moment":6134
+            },
+            {
+                "info":"css-2-2003 Load Event",
+                "time":1408522899551,
+                "moment":6139
+            },
+            {
+                "info":"css-2-2004 Load Event",
+                "time":1408522901548,
+                "moment":8136
+            },
+            {
+                "info":"css-2-2005 Load Event",
+                "time":1408522901551,
+                "moment":8139
+            },
+            {
+                "info":"大量css文件资源加载完成",
+                "time":1408522901554,
+                "moment":8142
+            },
+            {
+                "info":"head标签结束",
+                "time":1408522901554,
+                "moment":8142
+            },
+            {
+                "info":"body标签开始",
+                "time":1408522901554,
+                "moment":8142
+            },
+            {
+                "info":"css-3-2000 Load Event",
+                "time":1408522901559,
+                "moment":8147
+            },
+            {
+                "info":"css-3-2001 Load Event",
+                "time":1408522901559,
+                "moment":8147
+            },
+            {
+                "info":"css-2-2006 Load Event",
+                "time":1408522901559,
+                "moment":8147
+            },
+            {
+                "info":"css-3-2002 Load Event",
+                "time":1408522901559,
+                "moment":8147
+            },
+            {
+                "info":"css-3-2003 Load Event",
+                "time":1408522903557,
+                "moment":10145
+            },
+            {
+                "info":"css-3-2004 Load Event",
+                "time":1408522903558,
+                "moment":10146
+            },
+            {
+                "info":"css-3-2005 Load Event",
+                "time":1408522903560,
+                "moment":10148
+            },
+            {
+                "info":"body标签结束",
+                "time":1408522903562,
+                "moment":10150
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408522903562,
+                "moment":10150
+            },
+            {
+                "info":"css-3-2006 Load Event",
+                "time":1408522903562,
+                "moment":10150
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408522903562,
+                "moment":10150
+            },
+            {
+                "info":"END",
+                "time":1408522903562,
+                "moment":10150
+            }
+        ],
+        "Firefox 31.0":[
+            {
+                "info":"大量css文件资源加载开始",
+                "time":1408522689577,
+                "moment":27
+            },
+            {
+                "info":"css-0-2000 Load Event",
+                "time":1408522691688,
+                "moment":2138
+            },
+            {
+                "info":"css-0-2001 Load Event",
+                "time":1408522691699,
+                "moment":2149
+            },
+            {
+                "info":"css-0-2002 Load Event",
+                "time":1408522691700,
+                "moment":2150
+            },
+            {
+                "info":"css-0-2003 Load Event",
+                "time":1408522691701,
+                "moment":2151
+            },
+            {
+                "info":"css-0-2004 Load Event",
+                "time":1408522691702,
+                "moment":2152
+            },
+            {
+                "info":"css-0-2005 Load Event",
+                "time":1408522691702,
+                "moment":2152
+            },
+            {
+                "info":"css-1-2000 Load Event",
+                "time":1408522693689,
+                "moment":4139
+            },
+            {
+                "info":"css-1-2001 Load Event",
+                "time":1408522693690,
+                "moment":4140
+            },
+            {
+                "info":"css-1-2002 Load Event",
+                "time":1408522693691,
+                "moment":4141
+            },
+            {
+                "info":"css-0-2006 Load Event",
+                "time":1408522693694,
+                "moment":4144
+            },
+            {
+                "info":"css-1-2003 Load Event",
+                "time":1408522693695,
+                "moment":4145
+            },
+            {
+                "info":"css-1-2004 Load Event",
+                "time":1408522693695,
+                "moment":4145
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408522695694,
+                "moment":6144
+            },
+            {
+                "info":"css-1-2005 Load Event",
+                "time":1408522695695,
+                "moment":6145
+            },
+            {
+                "info":"css-2-2001 Load Event",
+                "time":1408522695697,
+                "moment":6147
+            },
+            {
+                "info":"css-1-2006 Load Event",
+                "time":1408522695718,
+                "moment":6168
+            },
+            {
+                "info":"css-2-2002 Load Event",
+                "time":1408522695719,
+                "moment":6169
+            },
+            {
+                "info":"css-2-2003 Load Event",
+                "time":1408522695720,
+                "moment":6170
+            },
+            {
+                "info":"css-2-2004 Load Event",
+                "time":1408522697700,
+                "moment":8150
+            },
+            {
+                "info":"css-2-2005 Load Event",
+                "time":1408522697725,
+                "moment":8175
+            },
+            {
+                "info":"css-2-2006 Load Event",
+                "time":1408522697725,
+                "moment":8175
+            },
+            {
+                "info":"大量css文件资源加载完成",
+                "time":1408522697726,
+                "moment":8176
+            },
+            {
+                "info":"head标签结束",
+                "time":1408522697726,
+                "moment":8176
+            },
+            {
+                "info":"body标签开始",
+                "time":1408522697743,
+                "moment":8193
+            },
+            {
+                "info":"css-3-2000 Load Event",
+                "time":1408522697747,
+                "moment":8197
+            },
+            {
+                "info":"css-3-2001 Load Event",
+                "time":1408522697747,
+                "moment":8197
+            },
+            {
+                "info":"css-3-2002 Load Event",
+                "time":1408522697747,
+                "moment":8197
+            },
+            {
+                "info":"css-3-2003 Load Event",
+                "time":1408522699704,
+                "moment":10154
+            },
+            {
+                "info":"css-3-2004 Load Event",
+                "time":1408522699725,
+                "moment":10175
+            },
+            {
+                "info":"css-3-2005 Load Event",
+                "time":1408522699726,
+                "moment":10176
+            },
+            {
+                "info":"css-3-2006 Load Event",
+                "time":1408522699729,
+                "moment":10179
+            },
+            {
+                "info":"body标签结束",
+                "time":1408522699729,
+                "moment":10179
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408522699730,
+                "moment":10180
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408522699732,
+                "moment":10182
+            },
+            {
+                "info":"END",
+                "time":1408522699732,
+                "moment":10182
+            }
+        ]
+    },
+    "iOS 7.1.2":{
+        "Safari":[
+            {
+                "info":"大量css文件资源加载开始",
+                "time":1408525859695,
+                "moment":1
+            },
+            {
+                "info":"css-2-2006 Load Event",
+                "time":1408525863924,
+                "moment":4230
+            },
+            {
+                "info":"css-2-2004 Load Event",
+                "time":1408525863925,
+                "moment":4231
+            },
+            {
+                "info":"css-2-2002 Load Event",
+                "time":1408525863928,
+                "moment":4234
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408525863930,
+                "moment":4236
+            },
+            {
+                "info":"css-2-2001 Load Event",
+                "time":1408525865976,
+                "moment":6282
+            },
+            {
+                "info":"css-2-2003 Load Event",
+                "time":1408525865977,
+                "moment":6283
+            },
+            {
+                "info":"css-2-2005 Load Event",
+                "time":1408525865977,
+                "moment":6283
+            },
+            {
+                "info":"css-0-2005 Load Event",
+                "time":1408525868125,
+                "moment":8431
+            },
+            {
+                "info":"css-1-2004 Load Event",
+                "time":1408525868125,
+                "moment":8431
+            },
+            {
+                "info":"css-0-2004 Load Event",
+                "time":1408525868125,
+                "moment":8431
+            },
+            {
+                "info":"css-1-2002 Load Event",
+                "time":1408525868125,
+                "moment":8431
+            },
+            {
+                "info":"css-1-2003 Load Event",
+                "time":1408525870175,
+                "moment":10481
+            },
+            {
+                "info":"css-0-2003 Load Event",
+                "time":1408525870175,
+                "moment":10481
+            },
+            {
+                "info":"css-0-2002 Load Event",
+                "time":1408525870177,
+                "moment":10483
+            },
+            {
+                "info":"css-1-2001 Load Event",
+                "time":1408525870179,
+                "moment":10485
+            },
+            {
+                "info":"css-0-2001 Load Event",
+                "time":1408525870179,
+                "moment":10485
+            },
+            {
+                "info":"css-1-2000 Load Event",
+                "time":1408525870179,
+                "moment":10485
+            },
+            {
+                "info":"大量css文件资源加载完成",
+                "time":1408525872339,
+                "moment":12645
+            },
+            {
+                "info":"head标签结束",
+                "time":1408525872339,
+                "moment":12645
+            },
+            {
+                "info":"css-0-2000 Load Event",
+                "time":1408525872340,
+                "moment":12646
+            },
+            {
+                "info":"css-0-2006 Load Event",
+                "time":1408525872340,
+                "moment":12646
+            },
+            {
+                "info":"css-1-2005 Load Event",
+                "time":1408525872340,
+                "moment":12646
+            },
+            {
+                "info":"css-1-2006 Load Event",
+                "time":1408525872340,
+                "moment":12646
+            },
+            {
+                "info":"body标签开始",
+                "time":1408525872340,
+                "moment":12646
+            },
+            {
+                "info":"body标签结束",
+                "time":1408525872342,
+                "moment":12648
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408525872342,
+                "moment":12648
+            },
+            {
+                "info":"css-3-2000 Load Event",
+                "time":1408525872342,
+                "moment":12648
+            },
+            {
+                "info":"css-3-2001 Load Event",
+                "time":1408525872342,
+                "moment":12648
+            },
+            {
+                "info":"css-3-2002 Load Event",
+                "time":1408525872342,
+                "moment":12648
+            },
+            {
+                "info":"css-3-2003 Load Event",
+                "time":1408525872342,
+                "moment":12648
+            },
+            {
+                "info":"css-3-2004 Load Event",
+                "time":1408525872342,
+                "moment":12648
+            },
+            {
+                "info":"css-3-2005 Load Event",
+                "time":1408525872342,
+                "moment":12648
+            },
+            {
+                "info":"css-3-2006 Load Event",
+                "time":1408525872342,
+                "moment":12648
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408525872343,
+                "moment":12649
+            },
+            {
+                "info":"END",
+                "time":1408525872343,
+                "moment":12649
+            }
+        ],
+        "Chrome 36.0.1985.57":[
+            {
+                "info":"大量css文件资源加载开始",
+                "time":1408526384872,
+                "moment":2
+            },
+            {
+                "info":"css-0-2000 Load Event",
+                "time":1408526387028,
+                "moment":2158
+            },
+            {
+                "info":"css-0-2003 Load Event",
+                "time":1408526387028,
+                "moment":2158
+            },
+            {
+                "info":"css-0-2004 Load Event",
+                "time":1408526387029,
+                "moment":2159
+            },
+            {
+                "info":"css-0-2001 Load Event",
+                "time":1408526387034,
+                "moment":2164
+            },
+            {
+                "info":"css-0-2005 Load Event",
+                "time":1408526387034,
+                "moment":2164
+            },
+            {
+                "info":"css-0-2002 Load Event",
+                "time":1408526387035,
+                "moment":2165
+            },
+            {
+                "info":"css-1-2004 Load Event",
+                "time":1408526389178,
+                "moment":4308
+            },
+            {
+                "info":"css-1-2002 Load Event",
+                "time":1408526389183,
+                "moment":4313
+            },
+            {
+                "info":"css-1-2003 Load Event",
+                "time":1408526389183,
+                "moment":4313
+            },
+            {
+                "info":"css-0-2006 Load Event",
+                "time":1408526389183,
+                "moment":4313
+            },
+            {
+                "info":"css-1-2000 Load Event",
+                "time":1408526389183,
+                "moment":4313
+            },
+            {
+                "info":"css-1-2001 Load Event",
+                "time":1408526389183,
+                "moment":4313
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408526391228,
+                "moment":6358
+            },
+            {
+                "info":"css-2-2003 Load Event",
+                "time":1408526391245,
+                "moment":6375
+            },
+            {
+                "info":"css-2-2001 Load Event",
+                "time":1408526391245,
+                "moment":6375
+            },
+            {
+                "info":"css-2-2002 Load Event",
+                "time":1408526391245,
+                "moment":6375
+            },
+            {
+                "info":"css-1-2006 Load Event",
+                "time":1408526391245,
+                "moment":6375
+            },
+            {
+                "info":"css-1-2005 Load Event",
+                "time":1408526391247,
+                "moment":6377
+            },
+            {
+                "info":"css-2-2004 Load Event",
+                "time":1408526393377,
+                "moment":8507
+            },
+            {
+                "info":"大量css文件资源加载完成",
+                "time":1408526393383,
+                "moment":8513
+            },
+            {
+                "info":"head标签结束",
+                "time":1408526393383,
+                "moment":8513
+            },
+            {
+                "info":"css-2-2005 Load Event",
+                "time":1408526393384,
+                "moment":8514
+            },
+            {
+                "info":"css-2-2006 Load Event",
+                "time":1408526393385,
+                "moment":8515
+            },
+            {
+                "info":"body标签开始",
+                "time":1408526393385,
+                "moment":8515
+            },
+            {
+                "info":"css-3-2000 Load Event",
+                "time":1408526393387,
+                "moment":8517
+            },
+            {
+                "info":"css-3-2001 Load Event",
+                "time":1408526393387,
+                "moment":8517
+            },
+            {
+                "info":"css-3-2002 Load Event",
+                "time":1408526393387,
+                "moment":8517
+            },
+            {
+                "info":"css-3-2004 Load Event",
+                "time":1408526395521,
+                "moment":10651
+            },
+            {
+                "info":"body标签结束",
+                "time":1408526395533,
+                "moment":10663
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408526395534,
+                "moment":10664
+            },
+            {
+                "info":"css-3-2003 Load Event",
+                "time":1408526395534,
+                "moment":10664
+            },
+            {
+                "info":"css-3-2006 Load Event",
+                "time":1408526395534,
+                "moment":10664
+            },
+            {
+                "info":"css-3-2005 Load Event",
+                "time":1408526395534,
+                "moment":10664
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408526395535,
+                "moment":10665
+            },
+            {
+                "info":"END",
+                "time":1408526395535,
+                "moment":10665
+            }
+        ],
+        "MicroMessenger 5.4":[
+            {
+                "info":"大量css文件资源加载开始",
+                "time":1408526489757,
+                "moment":6
+            },
+            {
+                "info":"css-2-2004 Load Event",
+                "time":1408526494013,
+                "moment":4262
+            },
+            {
+                "info":"css-2-2006 Load Event",
+                "time":1408526494014,
+                "moment":4263
+            },
+            {
+                "info":"css-1-2005 Load Event",
+                "time":1408526494019,
+                "moment":4268
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408526494019,
+                "moment":4268
+            },
+            {
+                "info":"css-2-2002 Load Event",
+                "time":1408526494019,
+                "moment":4268
+            },
+            {
+                "info":"css-1-2006 Load Event",
+                "time":1408526496080,
+                "moment":6329
+            },
+            {
+                "info":"css-2-2001 Load Event",
+                "time":1408526496081,
+                "moment":6330
+            },
+            {
+                "info":"css-2-2003 Load Event",
+                "time":1408526498114,
+                "moment":8363
+            },
+            {
+                "info":"css-2-2005 Load Event",
+                "time":1408526498115,
+                "moment":8364
+            },
+            {
+                "info":"css-0-2005 Load Event",
+                "time":1408526498130,
+                "moment":8379
+            },
+            {
+                "info":"css-1-2004 Load Event",
+                "time":1408526498130,
+                "moment":8379
+            },
+            {
+                "info":"css-0-2004 Load Event",
+                "time":1408526500256,
+                "moment":10505
+            },
+            {
+                "info":"css-1-2003 Load Event",
+                "time":1408526500275,
+                "moment":10524
+            },
+            {
+                "info":"css-0-2003 Load Event",
+                "time":1408526500275,
+                "moment":10524
+            },
+            {
+                "info":"css-1-2002 Load Event",
+                "time":1408526500278,
+                "moment":10527
+            },
+            {
+                "info":"css-0-2002 Load Event",
+                "time":1408526500278,
+                "moment":10527
+            },
+            {
+                "info":"css-1-2001 Load Event",
+                "time":1408526500278,
+                "moment":10527
+            },
+            {
+                "info":"大量css文件资源加载完成",
+                "time":1408526502512,
+                "moment":12761
+            },
+            {
+                "info":"head标签结束",
+                "time":1408526502512,
+                "moment":12761
+            },
+            {
+                "info":"css-0-2001 Load Event",
+                "time":1408526502514,
+                "moment":12763
+            },
+            {
+                "info":"css-1-2000 Load Event",
+                "time":1408526502514,
+                "moment":12763
+            },
+            {
+                "info":"css-0-2000 Load Event",
+                "time":1408526502514,
+                "moment":12763
+            },
+            {
+                "info":"css-0-2006 Load Event",
+                "time":1408526502514,
+                "moment":12763
+            },
+            {
+                "info":"body标签开始",
+                "time":1408526502515,
+                "moment":12764
+            },
+            {
+                "info":"body标签结束",
+                "time":1408526502515,
+                "moment":12764
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408526502516,
+                "moment":12765
+            },
+            {
+                "info":"css-3-2000 Load Event",
+                "time":1408526502516,
+                "moment":12765
+            },
+            {
+                "info":"css-3-2001 Load Event",
+                "time":1408526502516,
+                "moment":12765
+            },
+            {
+                "info":"css-3-2002 Load Event",
+                "time":1408526502516,
+                "moment":12765
+            },
+            {
+                "info":"css-3-2003 Load Event",
+                "time":1408526502516,
+                "moment":12765
+            },
+            {
+                "info":"css-3-2004 Load Event",
+                "time":1408526502516,
+                "moment":12765
+            },
+            {
+                "info":"css-3-2005 Load Event",
+                "time":1408526502516,
+                "moment":12765
+            },
+            {
+                "info":"css-3-2006 Load Event",
+                "time":1408526502516,
+                "moment":12765
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408526502517,
+                "moment":12766
+            },
+            {
+                "info":"END",
+                "time":1408526502517,
+                "moment":12766
+            }
+        ]
+    },
+    "Android 4.0.4":{
+        "Chrome 34.0.1847.114":[
+            {
+                "info":"大量css文件资源加载开始",
+                "time":1408526745870,
+                "moment":9
+            },
+            {
+                "info":"css-0-2000 Load Event",
+                "time":1408526747974,
+                "moment":2113
+            },
+            {
+                "info":"css-0-2001 Load Event",
+                "time":1408526748023,
+                "moment":2162
+            },
+            {
+                "info":"css-0-2003 Load Event",
+                "time":1408526748027,
+                "moment":2166
+            },
+            {
+                "info":"css-0-2004 Load Event",
+                "time":1408526748031,
+                "moment":2170
+            },
+            {
+                "info":"css-0-2005 Load Event",
+                "time":1408526748037,
+                "moment":2176
+            },
+            {
+                "info":"css-0-2002 Load Event",
+                "time":1408526748042,
+                "moment":2181
+            },
+            {
+                "info":"css-0-2006 Load Event",
+                "time":1408526749987,
+                "moment":4126
+            },
+            {
+                "info":"css-1-2000 Load Event",
+                "time":1408526750016,
+                "moment":4155
+            },
+            {
+                "info":"css-1-2001 Load Event",
+                "time":1408526750025,
+                "moment":4164
+            },
+            {
+                "info":"css-1-2002 Load Event",
+                "time":1408526750028,
+                "moment":4167
+            },
+            {
+                "info":"css-1-2003 Load Event",
+                "time":1408526750035,
+                "moment":4174
+            },
+            {
+                "info":"css-1-2004 Load Event",
+                "time":1408526750038,
+                "moment":4177
+            },
+            {
+                "info":"css-1-2005 Load Event",
+                "time":1408526752000,
+                "moment":6139
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408526752032,
+                "moment":6171
+            },
+            {
+                "info":"css-2-2001 Load Event",
+                "time":1408526752036,
+                "moment":6175
+            },
+            {
+                "info":"css-2-2002 Load Event",
+                "time":1408526752040,
+                "moment":6179
+            },
+            {
+                "info":"css-1-2006 Load Event",
+                "time":1408526752045,
+                "moment":6184
+            },
+            {
+                "info":"css-2-2003 Load Event",
+                "time":1408526752047,
+                "moment":6186
+            },
+            {
+                "info":"css-2-2004 Load Event",
+                "time":1408526754013,
+                "moment":8152
+            },
+            {
+                "info":"css-2-2005 Load Event",
+                "time":1408526754046,
+                "moment":8185
+            },
+            {
+                "info":"大量css文件资源加载完成",
+                "time":1408526754070,
+                "moment":8209
+            },
+            {
+                "info":"head标签结束",
+                "time":1408526754071,
+                "moment":8210
+            },
+            {
+                "info":"body标签开始",
+                "time":1408526754074,
+                "moment":8213
+            },
+            {
+                "info":"css-3-2000 Load Event",
+                "time":1408526754077,
+                "moment":8216
+            },
+            {
+                "info":"css-3-2001 Load Event",
+                "time":1408526754079,
+                "moment":8218
+            },
+            {
+                "info":"css-3-2002 Load Event",
+                "time":1408526754081,
+                "moment":8220
+            },
+            {
+                "info":"css-2-2006 Load Event",
+                "time":1408526754082,
+                "moment":8221
+            },
+            {
+                "info":"css-3-2003 Load Event",
+                "time":1408526756047,
+                "moment":10186
+            },
+            {
+                "info":"css-3-2004 Load Event",
+                "time":1408526756056,
+                "moment":10195
+            },
+            {
+                "info":"css-3-2005 Load Event",
+                "time":1408526756081,
+                "moment":10220
+            },
+            {
+                "info":"body标签结束",
+                "time":1408526756084,
+                "moment":10223
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408526756085,
+                "moment":10224
+            },
+            {
+                "info":"css-3-2006 Load Event",
+                "time":1408526756099,
+                "moment":10238
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408526756103,
+                "moment":10242
+            },
+            {
+                "info":"END",
+                "time":1408526756105,
+                "moment":10244
+            }
+        ],
+        "UCBrowser 9.9.2.467":[
+            {
+                "info":"大量css文件资源加载开始",
+                "time":1408526703682,
+                "moment":19
+            },
+            {
+                "info":"css-0-2000 Load Event",
+                "time":1408526705724,
+                "moment":2061
+            },
+            {
+                "info":"css-0-2001 Load Event",
+                "time":1408526705732,
+                "moment":2069
+            },
+            {
+                "info":"css-0-2002 Load Event",
+                "time":1408526705757,
+                "moment":2094
+            },
+            {
+                "info":"css-0-2003 Load Event",
+                "time":1408526705818,
+                "moment":2155
+            },
+            {
+                "info":"css-0-2005 Load Event",
+                "time":1408526706014,
+                "moment":2351
+            },
+            {
+                "info":"css-0-2004 Load Event",
+                "time":1408526706016,
+                "moment":2353
+            },
+            {
+                "info":"css-0-2006 Load Event",
+                "time":1408526706017,
+                "moment":2354
+            },
+            {
+                "info":"css-1-2000 Load Event",
+                "time":1408526707725,
+                "moment":4062
+            },
+            {
+                "info":"css-1-2001 Load Event",
+                "time":1408526707739,
+                "moment":4076
+            },
+            {
+                "info":"css-1-2002 Load Event",
+                "time":1408526707774,
+                "moment":4111
+            },
+            {
+                "info":"css-1-2003 Load Event",
+                "time":1408526707841,
+                "moment":4178
+            },
+            {
+                "info":"css-1-2004 Load Event",
+                "time":1408526707912,
+                "moment":4249
+            },
+            {
+                "info":"css-1-2005 Load Event",
+                "time":1408526707925,
+                "moment":4262
+            },
+            {
+                "info":"css-1-2006 Load Event",
+                "time":1408526707939,
+                "moment":4276
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408526709757,
+                "moment":6094
+            },
+            {
+                "info":"css-2-2001 Load Event",
+                "time":1408526709769,
+                "moment":6106
+            },
+            {
+                "info":"css-2-2002 Load Event",
+                "time":1408526709793,
+                "moment":6130
+            },
+            {
+                "info":"css-2-2003 Load Event",
+                "time":1408526709924,
+                "moment":6261
+            },
+            {
+                "info":"大量css文件资源加载完成",
+                "time":1408526709964,
+                "moment":6301
+            },
+            {
+                "info":"head标签结束",
+                "time":1408526709965,
+                "moment":6302
+            },
+            {
+                "info":"body标签开始",
+                "time":1408526709972,
+                "moment":6309
+            },
+            {
+                "info":"css-2-2005 Load Event",
+                "time":1408526709978,
+                "moment":6315
+            },
+            {
+                "info":"css-2-2004 Load Event",
+                "time":1408526709980,
+                "moment":6317
+            },
+            {
+                "info":"css-2-2006 Load Event",
+                "time":1408526709981,
+                "moment":6318
+            },
+            {
+                "info":"css-3-2000 Load Event",
+                "time":1408526711784,
+                "moment":8121
+            },
+            {
+                "info":"css-3-2001 Load Event",
+                "time":1408526711794,
+                "moment":8131
+            },
+            {
+                "info":"css-3-2002 Load Event",
+                "time":1408526711811,
+                "moment":8148
+            },
+            {
+                "info":"css-3-2003 Load Event",
+                "time":1408526711970,
+                "moment":8307
+            },
+            {
+                "info":"css-3-2005 Load Event",
+                "time":1408526711992,
+                "moment":8329
+            },
+            {
+                "info":"body标签结束",
+                "time":1408526712001,
+                "moment":8338
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408526712006,
+                "moment":8343
+            },
+            {
+                "info":"css-3-2006 Load Event",
+                "time":1408526712017,
+                "moment":8354
+            },
+            {
+                "info":"css-3-2004 Load Event",
+                "time":1408526712021,
+                "moment":8358
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408526712022,
+                "moment":8359
+            },
+            {
+                "info":"END",
+                "time":1408526712022,
+                "moment":8359
+            }
+        ],
+        "MQQBrowser 5.2":[
+            {
+                "info":"大量css文件资源加载开始",
+                "time":1408527062887,
+                "moment":61
+            },
+            {
+                "info":"css-0-2002 Load Event",
+                "time":1408527064816,
+                "moment":1990
+            },
+            {
+                "info":"css-0-2001 Load Event",
+                "time":1408527064818,
+                "moment":1992
+            },
+            {
+                "info":"css-0-2000 Load Event",
+                "time":1408527064821,
+                "moment":1995
+            },
+            {
+                "info":"css-0-2003 Load Event",
+                "time":1408527064857,
+                "moment":2031
+            },
+            {
+                "info":"css-0-2006 Load Event",
+                "time":1408527064860,
+                "moment":2034
+            },
+            {
+                "info":"css-0-2005 Load Event",
+                "time":1408527064864,
+                "moment":2038
+            },
+            {
+                "info":"css-0-2004 Load Event",
+                "time":1408527064873,
+                "moment":2047
+            },
+            {
+                "info":"css-1-2001 Load Event",
+                "time":1408527066811,
+                "moment":3985
+            },
+            {
+                "info":"css-1-2000 Load Event",
+                "time":1408527066817,
+                "moment":3991
+            },
+            {
+                "info":"css-1-2003 Load Event",
+                "time":1408527066837,
+                "moment":4011
+            },
+            {
+                "info":"css-1-2002 Load Event",
+                "time":1408527066839,
+                "moment":4013
+            },
+            {
+                "info":"css-1-2004 Load Event",
+                "time":1408527066850,
+                "moment":4024
+            },
+            {
+                "info":"css-1-2005 Load Event",
+                "time":1408527066866,
+                "moment":4040
+            },
+            {
+                "info":"css-1-2006 Load Event",
+                "time":1408527066883,
+                "moment":4057
+            },
+            {
+                "info":"css-2-2001 Load Event",
+                "time":1408527068884,
+                "moment":6058
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408527068891,
+                "moment":6065
+            },
+            {
+                "info":"css-2-2002 Load Event",
+                "time":1408527068898,
+                "moment":6072
+            },
+            {
+                "info":"css-2-2003 Load Event",
+                "time":1408527068955,
+                "moment":6129
+            },
+            {
+                "info":"大量css文件资源加载完成",
+                "time":1408527068966,
+                "moment":6140
+            },
+            {
+                "info":"head标签结束",
+                "time":1408527068968,
+                "moment":6142
+            },
+            {
+                "info":"body标签开始",
+                "time":1408527068973,
+                "moment":6147
+            },
+            {
+                "info":"css-2-2004 Load Event",
+                "time":1408527068976,
+                "moment":6150
+            },
+            {
+                "info":"css-2-2006 Load Event",
+                "time":1408527068978,
+                "moment":6152
+            },
+            {
+                "info":"css-2-2005 Load Event",
+                "time":1408527068979,
+                "moment":6153
+            },
+            {
+                "info":"css-3-2000 Load Event",
+                "time":1408527070926,
+                "moment":8100
+            },
+            {
+                "info":"css-3-2001 Load Event",
+                "time":1408527070972,
+                "moment":8146
+            },
+            {
+                "info":"css-3-2003 Load Event",
+                "time":1408527071020,
+                "moment":8194
+            },
+            {
+                "info":"css-3-2002 Load Event",
+                "time":1408527071021,
+                "moment":8195
+            },
+            {
+                "info":"body标签结束",
+                "time":1408527071029,
+                "moment":8203
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408527071030,
+                "moment":8204
+            },
+            {
+                "info":"css-3-2005 Load Event",
+                "time":1408527071034,
+                "moment":8208
+            },
+            {
+                "info":"css-3-2006 Load Event",
+                "time":1408527071035,
+                "moment":8209
+            },
+            {
+                "info":"css-3-2004 Load Event",
+                "time":1408527071036,
+                "moment":8210
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408527071037,
+                "moment":8211
+            },
+            {
+                "info":"END",
+                "time":1408527071037,
+                "moment":8211
+            }
+        ],
+        "Native":[
+            {
+                "info":"大量css文件资源加载开始",
+                "time":1408526863527,
+                "moment":14
+            },
+            {
+                "info":"大量css文件资源加载完成",
+                "time":1408526871713,
+                "moment":8200
+            },
+            {
+                "info":"head标签结束",
+                "time":1408526871714,
+                "moment":8201
+            },
+            {
+                "info":"body标签开始",
+                "time":1408526871717,
+                "moment":8204
+            },
+            {
+                "info":"body标签结束",
+                "time":1408526873772,
+                "moment":10259
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408526873776,
+                "moment":10263
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408526873777,
+                "moment":10264
+            },
+            {
+                "info":"END",
+                "time":1408526873777,
+                "moment":10264
+            }
+        ]
+    }
+}

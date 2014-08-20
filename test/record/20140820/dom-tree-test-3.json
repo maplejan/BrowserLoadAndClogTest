@@ -1,0 +1,2103 @@
+{
+    "OS X 10.9.3":{
+        "Chrome 36.0.1985.143":[
+            {
+                "info":"head标签内资源加载开始",
+                "time":1408527260553,
+                "moment":5
+            },
+            {
+                "info":"css-1-500 Load Event",
+                "time":1408527261220,
+                "moment":672
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408527262719,
+                "moment":2171
+            },
+            {
+                "info":"js-0-1000-1500 Run Start",
+                "time":1408527263661,
+                "moment":3113
+            },
+            {
+                "info":"js-0-1000-1500 Run End",
+                "time":1408527265161,
+                "moment":4613
+            },
+            {
+                "info":"js-0-1000-1500 Load Event",
+                "time":1408527265162,
+                "moment":4614
+            },
+            {
+                "info":"head标签内资源加载结束",
+                "time":1408527265163,
+                "moment":4615
+            },
+            {
+                "info":"head标签结束",
+                "time":1408527265164,
+                "moment":4616
+            },
+            {
+                "info":"body标签开始",
+                "time":1408527265165,
+                "moment":4617
+            },
+            {
+                "info":"js-0-1111-0 Run Start",
+                "time":1408527265166,
+                "moment":4618
+            },
+            {
+                "info":"js-0-1111-0 Run End",
+                "time":1408527265171,
+                "moment":4623
+            },
+            {
+                "info":"js-0-1111-0 Load Event",
+                "time":1408527265174,
+                "moment":4626
+            },
+            {
+                "info":"h1标签显示",
+                "time":1408527265175,
+                "moment":4627
+            },
+            {
+                "info":"css-0-3000 Load Event",
+                "time":1408527265222,
+                "moment":4674
+            },
+            {
+                "info":"img-0-3000 Load Event",
+                "time":1408527265223,
+                "moment":4675
+            },
+            {
+                "info":"js-1-3333-0 Run Start",
+                "time":1408527265303,
+                "moment":4755
+            },
+            {
+                "info":"js-1-3333-0 Run End",
+                "time":1408527265303,
+                "moment":4755
+            },
+            {
+                "info":"js-1-3333-0 Load Event",
+                "time":1408527265305,
+                "moment":4757
+            },
+            {
+                "info":"h2标签显示",
+                "time":1408527265306,
+                "moment":4758
+            },
+            {
+                "info":"js-2-5555-0 Run Start",
+                "time":1408527268277,
+                "moment":7729
+            },
+            {
+                "info":"js-2-5555-0 Run End",
+                "time":1408527268277,
+                "moment":7729
+            },
+            {
+                "info":"js-2-5555-0 Load Event",
+                "time":1408527268277,
+                "moment":7729
+            },
+            {
+                "info":"h3标签显示",
+                "time":1408527268278,
+                "moment":7730
+            },
+            {
+                "info":"h4标签显示",
+                "time":1408527268278,
+                "moment":7730
+            },
+            {
+                "info":"css-1-3000 Load Event",
+                "time":1408527268278,
+                "moment":7730
+            },
+            {
+                "info":"img-1-5000 Load Event",
+                "time":1408527269240,
+                "moment":8692
+            },
+            {
+                "info":"js-0-7777-0 Run Start",
+                "time":1408527271441,
+                "moment":10893
+            },
+            {
+                "info":"js-0-7777-0 Run End",
+                "time":1408527271441,
+                "moment":10893
+            },
+            {
+                "info":"js-0-7777-0 Load Event",
+                "time":1408527271441,
+                "moment":10893
+            },
+            {
+                "info":"h5标签显示",
+                "time":1408527271442,
+                "moment":10894
+            },
+            {
+                "info":"js-1-9999-1999 Run Start",
+                "time":1408527273756,
+                "moment":13208
+            },
+            {
+                "info":"js-1-9999-1999 Run End",
+                "time":1408527275755,
+                "moment":15207
+            },
+            {
+                "info":"js-1-9999-1999 Load Event",
+                "time":1408527275756,
+                "moment":15208
+            },
+            {
+                "info":"h6标签显示",
+                "time":1408527275756,
+                "moment":15208
+            },
+            {
+                "info":"p标签显示",
+                "time":1408527275757,
+                "moment":15209
+            },
+            {
+                "info":"body标签结束",
+                "time":1408527275758,
+                "moment":15210
+            },
+            {
+                "info":"html标签结束",
+                "time":1408527275759,
+                "moment":15211
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408527275760,
+                "moment":15212
+            },
+            {
+                "info":"img-2-4000 Load Event",
+                "time":1408527275839,
+                "moment":15291
+            },
+            {
+                "info":"css-0-12000 Load Event",
+                "time":1408527275844,
+                "moment":15296
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408527275844,
+                "moment":15296
+            },
+            {
+                "info":"END",
+                "time":1408527275844,
+                "moment":15296
+            }
+        ],
+        "Safari 7.0.4 (9537.76.4)":[
+            {
+                "info":"head标签内资源加载开始",
+                "time":1408527307649,
+                "moment":0
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408527307822,
+                "moment":173
+            },
+            {
+                "info":"css-1-500 Load Event",
+                "time":1408527308155,
+                "moment":506
+            },
+            {
+                "info":"js-0-1000-1500 Run Start",
+                "time":1408527310656,
+                "moment":3007
+            },
+            {
+                "info":"js-0-1000-1500 Run End",
+                "time":1408527312156,
+                "moment":4507
+            },
+            {
+                "info":"js-0-1000-1500 Load Event",
+                "time":1408527312156,
+                "moment":4507
+            },
+            {
+                "info":"head标签内资源加载结束",
+                "time":1408527312156,
+                "moment":4507
+            },
+            {
+                "info":"head标签结束",
+                "time":1408527312156,
+                "moment":4507
+            },
+            {
+                "info":"body标签开始",
+                "time":1408527312156,
+                "moment":4507
+            },
+            {
+                "info":"js-0-1111-0 Run Start",
+                "time":1408527312157,
+                "moment":4508
+            },
+            {
+                "info":"js-0-1111-0 Run End",
+                "time":1408527312157,
+                "moment":4508
+            },
+            {
+                "info":"js-0-1111-0 Load Event",
+                "time":1408527312157,
+                "moment":4508
+            },
+            {
+                "info":"h1标签显示",
+                "time":1408527312157,
+                "moment":4508
+            },
+            {
+                "info":"js-1-3333-0 Run Start",
+                "time":1408527312443,
+                "moment":4794
+            },
+            {
+                "info":"js-1-3333-0 Run End",
+                "time":1408527312443,
+                "moment":4794
+            },
+            {
+                "info":"js-1-3333-0 Load Event",
+                "time":1408527312443,
+                "moment":4794
+            },
+            {
+                "info":"h2标签显示",
+                "time":1408527312443,
+                "moment":4794
+            },
+            {
+                "info":"css-0-3000 Load Event",
+                "time":1408527312443,
+                "moment":4794
+            },
+            {
+                "info":"js-2-5555-0 Run Start",
+                "time":1408527313384,
+                "moment":5735
+            },
+            {
+                "info":"js-2-5555-0 Run End",
+                "time":1408527313384,
+                "moment":5735
+            },
+            {
+                "info":"js-2-5555-0 Load Event",
+                "time":1408527313384,
+                "moment":5735
+            },
+            {
+                "info":"h3标签显示",
+                "time":1408527313384,
+                "moment":5735
+            },
+            {
+                "info":"h4标签显示",
+                "time":1408527313384,
+                "moment":5735
+            },
+            {
+                "info":"css-1-3000 Load Event",
+                "time":1408527313386,
+                "moment":5737
+            },
+            {
+                "info":"img-0-3000 Load Event",
+                "time":1408527315268,
+                "moment":7619
+            },
+            {
+                "info":"js-0-7777-0 Run Start",
+                "time":1408527316624,
+                "moment":8975
+            },
+            {
+                "info":"js-0-7777-0 Run End",
+                "time":1408527316624,
+                "moment":8975
+            },
+            {
+                "info":"js-0-7777-0 Load Event",
+                "time":1408527316624,
+                "moment":8975
+            },
+            {
+                "info":"h5标签显示",
+                "time":1408527316624,
+                "moment":8975
+            },
+            {
+                "info":"img-1-5000 Load Event",
+                "time":1408527317162,
+                "moment":9513
+            },
+            {
+                "info":"js-1-9999-1999 Run Start",
+                "time":1408527318934,
+                "moment":11285
+            },
+            {
+                "info":"js-1-9999-1999 Run End",
+                "time":1408527320933,
+                "moment":13284
+            },
+            {
+                "info":"js-1-9999-1999 Load Event",
+                "time":1408527320933,
+                "moment":13284
+            },
+            {
+                "info":"h6标签显示",
+                "time":1408527320933,
+                "moment":13284
+            },
+            {
+                "info":"img-2-4000 Load Event",
+                "time":1408527320935,
+                "moment":13286
+            },
+            {
+                "info":"p标签显示",
+                "time":1408527322660,
+                "moment":15011
+            },
+            {
+                "info":"body标签结束",
+                "time":1408527322660,
+                "moment":15011
+            },
+            {
+                "info":"html标签结束",
+                "time":1408527322660,
+                "moment":15011
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408527322660,
+                "moment":15011
+            },
+            {
+                "info":"css-0-12000 Load Event",
+                "time":1408527322755,
+                "moment":15106
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408527322755,
+                "moment":15106
+            },
+            {
+                "info":"END",
+                "time":1408527322755,
+                "moment":15106
+            }
+        ],
+        "Firefox 31.0":[
+            {
+                "info":"head标签内资源加载开始",
+                "time":1408527349255,
+                "moment":3
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408527349491,
+                "moment":239
+            },
+            {
+                "info":"css-1-500 Load Event",
+                "time":1408527349991,
+                "moment":739
+            },
+            {
+                "info":"css-0-3000 Load Event",
+                "time":1408527352491,
+                "moment":3239
+            },
+            {
+                "info":"js-0-1000-1500 Run Start",
+                "time":1408527352498,
+                "moment":3246
+            },
+            {
+                "info":"js-0-1000-1500 Run End",
+                "time":1408527353999,
+                "moment":4747
+            },
+            {
+                "info":"js-0-1000-1500 Load Event",
+                "time":1408527354015,
+                "moment":4763
+            },
+            {
+                "info":"head标签内资源加载结束",
+                "time":1408527354022,
+                "moment":4770
+            },
+            {
+                "info":"head标签结束",
+                "time":1408527354026,
+                "moment":4774
+            },
+            {
+                "info":"body标签开始",
+                "time":1408527354064,
+                "moment":4812
+            },
+            {
+                "info":"js-0-1111-0 Run Start",
+                "time":1408527362634,
+                "moment":13382
+            },
+            {
+                "info":"js-0-1111-0 Run End",
+                "time":1408527362636,
+                "moment":13384
+            },
+            {
+                "info":"js-0-1111-0 Load Event",
+                "time":1408527362638,
+                "moment":13386
+            },
+            {
+                "info":"h1标签显示",
+                "time":1408527362643,
+                "moment":13391
+            },
+            {
+                "info":"img-0-3000 Load Event",
+                "time":1408527364622,
+                "moment":15370
+            },
+            {
+                "info":"js-1-3333-0 Run Start",
+                "time":1408527364860,
+                "moment":15608
+            },
+            {
+                "info":"js-1-3333-0 Run End",
+                "time":1408527364862,
+                "moment":15610
+            },
+            {
+                "info":"js-1-3333-0 Load Event",
+                "time":1408527364864,
+                "moment":15612
+            },
+            {
+                "info":"h2标签显示",
+                "time":1408527364869,
+                "moment":15617
+            },
+            {
+                "info":"js-2-5555-0 Run Start",
+                "time":1408527367080,
+                "moment":17828
+            },
+            {
+                "info":"js-2-5555-0 Run End",
+                "time":1408527367082,
+                "moment":17830
+            },
+            {
+                "info":"js-2-5555-0 Load Event",
+                "time":1408527367086,
+                "moment":17834
+            },
+            {
+                "info":"h3标签显示",
+                "time":1408527367089,
+                "moment":17837
+            },
+            {
+                "info":"css-1-3000 Load Event",
+                "time":1408527367093,
+                "moment":17841
+            },
+            {
+                "info":"h4标签显示",
+                "time":1408527367106,
+                "moment":17854
+            },
+            {
+                "info":"img-1-5000 Load Event",
+                "time":1408527367638,
+                "moment":18386
+            },
+            {
+                "info":"js-0-7777-0 Run Start",
+                "time":1408527369300,
+                "moment":20048
+            },
+            {
+                "info":"js-0-7777-0 Run End",
+                "time":1408527369301,
+                "moment":20049
+            },
+            {
+                "info":"js-0-7777-0 Load Event",
+                "time":1408527369303,
+                "moment":20051
+            },
+            {
+                "info":"h5标签显示",
+                "time":1408527369306,
+                "moment":20054
+            },
+            {
+                "info":"js-1-9999-1999 Run Start",
+                "time":1408527371524,
+                "moment":22272
+            },
+            {
+                "info":"js-1-9999-1999 Run End",
+                "time":1408527373524,
+                "moment":24272
+            },
+            {
+                "info":"js-1-9999-1999 Load Event",
+                "time":1408527373526,
+                "moment":24274
+            },
+            {
+                "info":"h6标签显示",
+                "time":1408527373536,
+                "moment":24284
+            },
+            {
+                "info":"css-0-12000 Load Event",
+                "time":1408527373540,
+                "moment":24288
+            },
+            {
+                "info":"img-2-4000 Load Event",
+                "time":1408527373827,
+                "moment":24575
+            },
+            {
+                "info":"p标签显示",
+                "time":1408527373829,
+                "moment":24577
+            },
+            {
+                "info":"body标签结束",
+                "time":1408527373851,
+                "moment":24599
+            },
+            {
+                "info":"html标签结束",
+                "time":1408527373853,
+                "moment":24601
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408527373867,
+                "moment":24615
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408527373915,
+                "moment":24663
+            },
+            {
+                "info":"END",
+                "time":1408527373916,
+                "moment":24664
+            }
+        ]
+    },
+    "iOS 7.1.2":{
+        "Safari":[
+            {
+                "info":"head标签内资源加载开始",
+                "time":1408527602961,
+                "moment":6
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408527603069,
+                "moment":114
+            },
+            {
+                "info":"css-1-500 Load Event",
+                "time":1408527603545,
+                "moment":590
+            },
+            {
+                "info":"css-0-3000 Load Event",
+                "time":1408527605986,
+                "moment":3031
+            },
+            {
+                "info":"js-0-1000-1500 Run Start",
+                "time":1408527616246,
+                "moment":13291
+            },
+            {
+                "info":"js-0-1000-1500 Run End",
+                "time":1408527617746,
+                "moment":14791
+            },
+            {
+                "info":"js-0-1000-1500 Load Event",
+                "time":1408527617746,
+                "moment":14791
+            },
+            {
+                "info":"head标签内资源加载结束",
+                "time":1408527617746,
+                "moment":14791
+            },
+            {
+                "info":"head标签结束",
+                "time":1408527617747,
+                "moment":14792
+            },
+            {
+                "info":"body标签开始",
+                "time":1408527617753,
+                "moment":14798
+            },
+            {
+                "info":"js-0-1111-0 Run Start",
+                "time":1408527617761,
+                "moment":14806
+            },
+            {
+                "info":"js-0-1111-0 Run End",
+                "time":1408527617761,
+                "moment":14806
+            },
+            {
+                "info":"js-0-1111-0 Load Event",
+                "time":1408527617761,
+                "moment":14806
+            },
+            {
+                "info":"h1标签显示",
+                "time":1408527617772,
+                "moment":14817
+            },
+            {
+                "info":"js-1-3333-0 Run Start",
+                "time":1408527618607,
+                "moment":15652
+            },
+            {
+                "info":"js-1-3333-0 Run End",
+                "time":1408527618608,
+                "moment":15653
+            },
+            {
+                "info":"js-1-3333-0 Load Event",
+                "time":1408527618608,
+                "moment":15653
+            },
+            {
+                "info":"h2标签显示",
+                "time":1408527618626,
+                "moment":15671
+            },
+            {
+                "info":"js-2-5555-0 Run Start",
+                "time":1408527620763,
+                "moment":17808
+            },
+            {
+                "info":"js-2-5555-0 Run End",
+                "time":1408527620763,
+                "moment":17808
+            },
+            {
+                "info":"js-2-5555-0 Load Event",
+                "time":1408527620764,
+                "moment":17809
+            },
+            {
+                "info":"h3标签显示",
+                "time":1408527620767,
+                "moment":17812
+            },
+            {
+                "info":"css-1-3000 Load Event",
+                "time":1408527620772,
+                "moment":17817
+            },
+            {
+                "info":"h4标签显示",
+                "time":1408527620773,
+                "moment":17818
+            },
+            {
+                "info":"js-0-7777-0 Run Start",
+                "time":1408527622996,
+                "moment":20041
+            },
+            {
+                "info":"js-0-7777-0 Run End",
+                "time":1408527622996,
+                "moment":20041
+            },
+            {
+                "info":"js-0-7777-0 Load Event",
+                "time":1408527622996,
+                "moment":20041
+            },
+            {
+                "info":"h5标签显示",
+                "time":1408527623000,
+                "moment":20045
+            },
+            {
+                "info":"js-1-9999-1999 Run Start",
+                "time":1408527625251,
+                "moment":22296
+            },
+            {
+                "info":"js-1-9999-1999 Run End",
+                "time":1408527627250,
+                "moment":24295
+            },
+            {
+                "info":"js-1-9999-1999 Load Event",
+                "time":1408527627250,
+                "moment":24295
+            },
+            {
+                "info":"h6标签显示",
+                "time":1408527627252,
+                "moment":24297
+            },
+            {
+                "info":"css-0-12000 Load Event",
+                "time":1408527627273,
+                "moment":24318
+            },
+            {
+                "info":"p标签显示",
+                "time":1408527627273,
+                "moment":24318
+            },
+            {
+                "info":"body标签结束",
+                "time":1408527627273,
+                "moment":24318
+            },
+            {
+                "info":"html标签结束",
+                "time":1408527627273,
+                "moment":24318
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408527627274,
+                "moment":24319
+            },
+            {
+                "info":"img-0-3000 Load Event",
+                "time":1408527628357,
+                "moment":25402
+            },
+            {
+                "info":"img-2-4000 Load Event",
+                "time":1408527629343,
+                "moment":26388
+            },
+            {
+                "info":"img-1-5000 Load Event",
+                "time":1408527630894,
+                "moment":27939
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408527630895,
+                "moment":27940
+            },
+            {
+                "info":"END",
+                "time":1408527630895,
+                "moment":27940
+            }
+        ],
+        "Chrome 36.0.1985.57":[
+            {
+                "info":"head标签内资源加载开始",
+                "time":1408527667376,
+                "moment":3
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408527667444,
+                "moment":71
+            },
+            {
+                "info":"css-1-500 Load Event",
+                "time":1408527667915,
+                "moment":542
+            },
+            {
+                "info":"js-0-1000-1500 Run Start",
+                "time":1408527670395,
+                "moment":3022
+            },
+            {
+                "info":"js-0-1000-1500 Run End",
+                "time":1408527671895,
+                "moment":4522
+            },
+            {
+                "info":"js-0-1000-1500 Load Event",
+                "time":1408527671901,
+                "moment":4528
+            },
+            {
+                "info":"head标签内资源加载结束",
+                "time":1408527671921,
+                "moment":4548
+            },
+            {
+                "info":"head标签结束",
+                "time":1408527671921,
+                "moment":4548
+            },
+            {
+                "info":"css-0-3000 Load Event",
+                "time":1408527671921,
+                "moment":4548
+            },
+            {
+                "info":"body标签开始",
+                "time":1408527671924,
+                "moment":4551
+            },
+            {
+                "info":"img-0-3000 Load Event",
+                "time":1408527671926,
+                "moment":4553
+            },
+            {
+                "info":"js-0-1111-0 Run Start",
+                "time":1408527671927,
+                "moment":4554
+            },
+            {
+                "info":"js-0-1111-0 Run End",
+                "time":1408527671927,
+                "moment":4554
+            },
+            {
+                "info":"js-0-1111-0 Load Event",
+                "time":1408527671927,
+                "moment":4554
+            },
+            {
+                "info":"h1标签显示",
+                "time":1408527671931,
+                "moment":4558
+            },
+            {
+                "info":"js-1-3333-0 Run Start",
+                "time":1408527671931,
+                "moment":4558
+            },
+            {
+                "info":"js-1-3333-0 Run End",
+                "time":1408527671931,
+                "moment":4558
+            },
+            {
+                "info":"js-1-3333-0 Load Event",
+                "time":1408527671931,
+                "moment":4558
+            },
+            {
+                "info":"h2标签显示",
+                "time":1408527671937,
+                "moment":4564
+            },
+            {
+                "info":"js-2-5555-0 Run Start",
+                "time":1408527673499,
+                "moment":6126
+            },
+            {
+                "info":"js-2-5555-0 Run End",
+                "time":1408527673500,
+                "moment":6127
+            },
+            {
+                "info":"js-2-5555-0 Load Event",
+                "time":1408527673500,
+                "moment":6127
+            },
+            {
+                "info":"h3标签显示",
+                "time":1408527673500,
+                "moment":6127
+            },
+            {
+                "info":"h4标签显示",
+                "time":1408527673501,
+                "moment":6128
+            },
+            {
+                "info":"img-1-5000 Load Event",
+                "time":1408527673505,
+                "moment":6132
+            },
+            {
+                "info":"css-1-3000 Load Event",
+                "time":1408527673505,
+                "moment":6132
+            },
+            {
+                "info":"js-0-7777-0 Run Start",
+                "time":1408527678372,
+                "moment":10999
+            },
+            {
+                "info":"js-0-7777-0 Run End",
+                "time":1408527678372,
+                "moment":10999
+            },
+            {
+                "info":"js-0-7777-0 Load Event",
+                "time":1408527678372,
+                "moment":10999
+            },
+            {
+                "info":"h5标签显示",
+                "time":1408527678373,
+                "moment":11000
+            },
+            {
+                "info":"js-1-9999-1999 Run Start",
+                "time":1408527680610,
+                "moment":13237
+            },
+            {
+                "info":"js-1-9999-1999 Run End",
+                "time":1408527682610,
+                "moment":15237
+            },
+            {
+                "info":"js-1-9999-1999 Load Event",
+                "time":1408527682610,
+                "moment":15237
+            },
+            {
+                "info":"h6标签显示",
+                "time":1408527682613,
+                "moment":15240
+            },
+            {
+                "info":"img-2-4000 Load Event",
+                "time":1408527682627,
+                "moment":15254
+            },
+            {
+                "info":"p标签显示",
+                "time":1408527683750,
+                "moment":16377
+            },
+            {
+                "info":"body标签结束",
+                "time":1408527683750,
+                "moment":16377
+            },
+            {
+                "info":"html标签结束",
+                "time":1408527683750,
+                "moment":16377
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408527683751,
+                "moment":16378
+            },
+            {
+                "info":"css-0-12000 Load Event",
+                "time":1408527683751,
+                "moment":16378
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408527683751,
+                "moment":16378
+            },
+            {
+                "info":"END",
+                "time":1408527683751,
+                "moment":16378
+            }
+        ],
+        "MicroMessenger 5.4":[
+            {
+                "info":"head标签内资源加载开始",
+                "time":1408527535681,
+                "moment":4
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408527535738,
+                "moment":61
+            },
+            {
+                "info":"css-1-500 Load Event",
+                "time":1408527536369,
+                "moment":692
+            },
+            {
+                "info":"css-0-3000 Load Event",
+                "time":1408527538824,
+                "moment":3147
+            },
+            {
+                "info":"js-0-1000-1500 Run Start",
+                "time":1408527548959,
+                "moment":13282
+            },
+            {
+                "info":"js-0-1000-1500 Run End",
+                "time":1408527550459,
+                "moment":14782
+            },
+            {
+                "info":"js-0-1000-1500 Load Event",
+                "time":1408527550459,
+                "moment":14782
+            },
+            {
+                "info":"head标签内资源加载结束",
+                "time":1408527550459,
+                "moment":14782
+            },
+            {
+                "info":"head标签结束",
+                "time":1408527550459,
+                "moment":14782
+            },
+            {
+                "info":"body标签开始",
+                "time":1408527550463,
+                "moment":14786
+            },
+            {
+                "info":"js-0-1111-0 Run Start",
+                "time":1408527550478,
+                "moment":14801
+            },
+            {
+                "info":"js-0-1111-0 Run End",
+                "time":1408527550478,
+                "moment":14801
+            },
+            {
+                "info":"js-0-1111-0 Load Event",
+                "time":1408527550478,
+                "moment":14801
+            },
+            {
+                "info":"h1标签显示",
+                "time":1408527550481,
+                "moment":14804
+            },
+            {
+                "info":"js-1-3333-0 Run Start",
+                "time":1408527551212,
+                "moment":15535
+            },
+            {
+                "info":"js-1-3333-0 Run End",
+                "time":1408527551212,
+                "moment":15535
+            },
+            {
+                "info":"js-1-3333-0 Load Event",
+                "time":1408527551213,
+                "moment":15536
+            },
+            {
+                "info":"h2标签显示",
+                "time":1408527551215,
+                "moment":15538
+            },
+            {
+                "info":"js-2-5555-0 Run Start",
+                "time":1408527553465,
+                "moment":17788
+            },
+            {
+                "info":"js-2-5555-0 Run End",
+                "time":1408527553465,
+                "moment":17788
+            },
+            {
+                "info":"js-2-5555-0 Load Event",
+                "time":1408527553465,
+                "moment":17788
+            },
+            {
+                "info":"h3标签显示",
+                "time":1408527553468,
+                "moment":17791
+            },
+            {
+                "info":"css-1-3000 Load Event",
+                "time":1408527553471,
+                "moment":17794
+            },
+            {
+                "info":"h4标签显示",
+                "time":1408527553472,
+                "moment":17795
+            },
+            {
+                "info":"js-0-7777-0 Run Start",
+                "time":1408527555718,
+                "moment":20041
+            },
+            {
+                "info":"js-0-7777-0 Run End",
+                "time":1408527555718,
+                "moment":20041
+            },
+            {
+                "info":"js-0-7777-0 Load Event",
+                "time":1408527555719,
+                "moment":20042
+            },
+            {
+                "info":"h5标签显示",
+                "time":1408527555721,
+                "moment":20044
+            },
+            {
+                "info":"js-1-9999-1999 Run Start",
+                "time":1408527557970,
+                "moment":22293
+            },
+            {
+                "info":"js-1-9999-1999 Run End",
+                "time":1408527559969,
+                "moment":24292
+            },
+            {
+                "info":"js-1-9999-1999 Load Event",
+                "time":1408527559969,
+                "moment":24292
+            },
+            {
+                "info":"h6标签显示",
+                "time":1408527559970,
+                "moment":24293
+            },
+            {
+                "info":"css-0-12000 Load Event",
+                "time":1408527559986,
+                "moment":24309
+            },
+            {
+                "info":"p标签显示",
+                "time":1408527559986,
+                "moment":24309
+            },
+            {
+                "info":"body标签结束",
+                "time":1408527559986,
+                "moment":24309
+            },
+            {
+                "info":"html标签结束",
+                "time":1408527559987,
+                "moment":24310
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408527559987,
+                "moment":24310
+            },
+            {
+                "info":"img-0-3000 Load Event",
+                "time":1408527561060,
+                "moment":25383
+            },
+            {
+                "info":"img-2-4000 Load Event",
+                "time":1408527562066,
+                "moment":26389
+            },
+            {
+                "info":"img-1-5000 Load Event",
+                "time":1408527563129,
+                "moment":27452
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408527563131,
+                "moment":27454
+            },
+            {
+                "info":"END",
+                "time":1408527563131,
+                "moment":27454
+            }
+        ]
+    },
+    "Android 4.0.4":{
+        "Chrome 34.0.1847.114":[
+            {
+                "info":"head标签内资源加载开始",
+                "time":1408527902351,
+                "moment":4
+            },
+            {
+                "info":"css-1-500 Load Event",
+                "time":1408527903071,
+                "moment":724
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408527904163,
+                "moment":1816
+            },
+            {
+                "info":"js-0-1000-1500 Run Start",
+                "time":1408527905476,
+                "moment":3129
+            },
+            {
+                "info":"js-0-1000-1500 Run End",
+                "time":1408527906979,
+                "moment":4632
+            },
+            {
+                "info":"js-0-1000-1500 Load Event",
+                "time":1408527906981,
+                "moment":4634
+            },
+            {
+                "info":"head标签内资源加载结束",
+                "time":1408527906982,
+                "moment":4635
+            },
+            {
+                "info":"head标签结束",
+                "time":1408527906983,
+                "moment":4636
+            },
+            {
+                "info":"body标签开始",
+                "time":1408527906984,
+                "moment":4637
+            },
+            {
+                "info":"js-0-1111-0 Run Start",
+                "time":1408527906986,
+                "moment":4639
+            },
+            {
+                "info":"js-0-1111-0 Run End",
+                "time":1408527906986,
+                "moment":4639
+            },
+            {
+                "info":"js-0-1111-0 Load Event",
+                "time":1408527906988,
+                "moment":4641
+            },
+            {
+                "info":"h1标签显示",
+                "time":1408527906989,
+                "moment":4642
+            },
+            {
+                "info":"js-1-3333-0 Run Start",
+                "time":1408527906993,
+                "moment":4646
+            },
+            {
+                "info":"js-1-3333-0 Run End",
+                "time":1408527906994,
+                "moment":4647
+            },
+            {
+                "info":"js-1-3333-0 Load Event",
+                "time":1408527906995,
+                "moment":4648
+            },
+            {
+                "info":"h2标签显示",
+                "time":1408527906996,
+                "moment":4649
+            },
+            {
+                "info":"css-0-3000 Load Event",
+                "time":1408527909159,
+                "moment":6812
+            },
+            {
+                "info":"img-0-3000 Load Event",
+                "time":1408527909293,
+                "moment":6946
+            },
+            {
+                "info":"js-2-5555-0 Run Start",
+                "time":1408527909571,
+                "moment":7224
+            },
+            {
+                "info":"js-2-5555-0 Run End",
+                "time":1408527909573,
+                "moment":7226
+            },
+            {
+                "info":"js-2-5555-0 Load Event",
+                "time":1408527909579,
+                "moment":7232
+            },
+            {
+                "info":"h3标签显示",
+                "time":1408527909583,
+                "moment":7236
+            },
+            {
+                "info":"h4标签显示",
+                "time":1408527909585,
+                "moment":7238
+            },
+            {
+                "info":"css-1-3000 Load Event",
+                "time":1408527909591,
+                "moment":7244
+            },
+            {
+                "info":"img-1-5000 Load Event",
+                "time":1408527911581,
+                "moment":9234
+            },
+            {
+                "info":"js-0-7777-0 Run Start",
+                "time":1408527911856,
+                "moment":9509
+            },
+            {
+                "info":"js-0-7777-0 Run End",
+                "time":1408527911861,
+                "moment":9514
+            },
+            {
+                "info":"js-0-7777-0 Load Event",
+                "time":1408527911862,
+                "moment":9515
+            },
+            {
+                "info":"h5标签显示",
+                "time":1408527911863,
+                "moment":9516
+            },
+            {
+                "info":"js-1-9999-1999 Run Start",
+                "time":1408527915495,
+                "moment":13148
+            },
+            {
+                "info":"js-1-9999-1999 Run End",
+                "time":1408527917495,
+                "moment":15148
+            },
+            {
+                "info":"js-1-9999-1999 Load Event",
+                "time":1408527917496,
+                "moment":15149
+            },
+            {
+                "info":"h6标签显示",
+                "time":1408527917499,
+                "moment":15152
+            },
+            {
+                "info":"p标签显示",
+                "time":1408527917501,
+                "moment":15154
+            },
+            {
+                "info":"body标签结束",
+                "time":1408527917502,
+                "moment":15155
+            },
+            {
+                "info":"html标签结束",
+                "time":1408527917505,
+                "moment":15158
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408527917508,
+                "moment":15161
+            },
+            {
+                "info":"img-2-4000 Load Event",
+                "time":1408527917514,
+                "moment":15167
+            },
+            {
+                "info":"css-0-12000 Load Event",
+                "time":1408527917520,
+                "moment":15173
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408527917521,
+                "moment":15174
+            },
+            {
+                "info":"END",
+                "time":1408527917522,
+                "moment":15175
+            }
+        ],
+        "UCBrowser 9.9.2.467":[
+            {
+                "info":"head标签内资源加载开始",
+                "time":1408527964566,
+                "moment":10
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408527964700,
+                "moment":144
+            },
+            {
+                "info":"css-1-500 Load Event",
+                "time":1408527965151,
+                "moment":595
+            },
+            {
+                "info":"js-0-1000-1500 Run Start",
+                "time":1408527967601,
+                "moment":3045
+            },
+            {
+                "info":"js-0-1000-1500 Run End",
+                "time":1408527969102,
+                "moment":4546
+            },
+            {
+                "info":"js-0-1000-1500 Load Event",
+                "time":1408527969105,
+                "moment":4549
+            },
+            {
+                "info":"head标签内资源加载结束",
+                "time":1408527969106,
+                "moment":4550
+            },
+            {
+                "info":"head标签结束",
+                "time":1408527969107,
+                "moment":4551
+            },
+            {
+                "info":"body标签开始",
+                "time":1408527969113,
+                "moment":4557
+            },
+            {
+                "info":"js-0-1111-0 Run Start",
+                "time":1408527969120,
+                "moment":4564
+            },
+            {
+                "info":"js-0-1111-0 Run End",
+                "time":1408527969120,
+                "moment":4564
+            },
+            {
+                "info":"js-0-1111-0 Load Event",
+                "time":1408527969122,
+                "moment":4566
+            },
+            {
+                "info":"h1标签显示",
+                "time":1408527969157,
+                "moment":4601
+            },
+            {
+                "info":"css-0-3000 Load Event",
+                "time":1408527969164,
+                "moment":4608
+            },
+            {
+                "info":"js-1-3333-0 Run Start",
+                "time":1408527969204,
+                "moment":4648
+            },
+            {
+                "info":"js-1-3333-0 Run End",
+                "time":1408527969204,
+                "moment":4648
+            },
+            {
+                "info":"js-1-3333-0 Load Event",
+                "time":1408527969206,
+                "moment":4650
+            },
+            {
+                "info":"h2标签显示",
+                "time":1408527969208,
+                "moment":4652
+            },
+            {
+                "info":"js-2-5555-0 Run Start",
+                "time":1408527970257,
+                "moment":5701
+            },
+            {
+                "info":"js-2-5555-0 Run End",
+                "time":1408527970258,
+                "moment":5702
+            },
+            {
+                "info":"js-2-5555-0 Load Event",
+                "time":1408527970259,
+                "moment":5703
+            },
+            {
+                "info":"h3标签显示",
+                "time":1408527970261,
+                "moment":5705
+            },
+            {
+                "info":"h4标签显示",
+                "time":1408527970268,
+                "moment":5712
+            },
+            {
+                "info":"css-1-3000 Load Event",
+                "time":1408527970271,
+                "moment":5715
+            },
+            {
+                "info":"img-0-3000 Load Event",
+                "time":1408527972304,
+                "moment":7748
+            },
+            {
+                "info":"js-0-7777-0 Run Start",
+                "time":1408527972976,
+                "moment":8420
+            },
+            {
+                "info":"js-0-7777-0 Run End",
+                "time":1408527972976,
+                "moment":8420
+            },
+            {
+                "info":"js-0-7777-0 Load Event",
+                "time":1408527972978,
+                "moment":8422
+            },
+            {
+                "info":"h5标签显示",
+                "time":1408527972980,
+                "moment":8424
+            },
+            {
+                "info":"img-1-5000 Load Event",
+                "time":1408527974331,
+                "moment":9775
+            },
+            {
+                "info":"js-1-9999-1999 Run Start",
+                "time":1408527975744,
+                "moment":11188
+            },
+            {
+                "info":"js-1-9999-1999 Run End",
+                "time":1408527977744,
+                "moment":13188
+            },
+            {
+                "info":"js-1-9999-1999 Load Event",
+                "time":1408527977745,
+                "moment":13189
+            },
+            {
+                "info":"h6标签显示",
+                "time":1408527977746,
+                "moment":13190
+            },
+            {
+                "info":"img-2-4000 Load Event",
+                "time":1408527977751,
+                "moment":13195
+            },
+            {
+                "info":"p标签显示",
+                "time":1408527977816,
+                "moment":13260
+            },
+            {
+                "info":"body标签结束",
+                "time":1408527977817,
+                "moment":13261
+            },
+            {
+                "info":"html标签结束",
+                "time":1408527977819,
+                "moment":13263
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408527977820,
+                "moment":13264
+            },
+            {
+                "info":"css-0-12000 Load Event",
+                "time":1408527977823,
+                "moment":13267
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408527977824,
+                "moment":13268
+            },
+            {
+                "info":"END",
+                "time":1408527977824,
+                "moment":13268
+            }
+        ],
+        "MQQBrowser 5.2":[
+            {
+                "info":"head标签内资源加载开始",
+                "time":1408527853171,
+                "moment":4
+            },
+            {
+                "info":"css-2-2000 Load Event",
+                "time":1408527853189,
+                "moment":22
+            },
+            {
+                "info":"css-1-500 Load Event",
+                "time":1408527853525,
+                "moment":358
+            },
+            {
+                "info":"js-0-1000-1500 Run Start",
+                "time":1408527856022,
+                "moment":2855
+            },
+            {
+                "info":"js-0-1000-1500 Run End",
+                "time":1408527857523,
+                "moment":4356
+            },
+            {
+                "info":"js-0-1000-1500 Load Event",
+                "time":1408527857525,
+                "moment":4358
+            },
+            {
+                "info":"head标签内资源加载结束",
+                "time":1408527857526,
+                "moment":4359
+            },
+            {
+                "info":"head标签结束",
+                "time":1408527857527,
+                "moment":4360
+            },
+            {
+                "info":"body标签开始",
+                "time":1408527857529,
+                "moment":4362
+            },
+            {
+                "info":"js-0-1111-0 Run Start",
+                "time":1408527857531,
+                "moment":4364
+            },
+            {
+                "info":"js-0-1111-0 Run End",
+                "time":1408527857531,
+                "moment":4364
+            },
+            {
+                "info":"js-0-1111-0 Load Event",
+                "time":1408527857532,
+                "moment":4365
+            },
+            {
+                "info":"h1标签显示",
+                "time":1408527857534,
+                "moment":4367
+            },
+            {
+                "info":"js-1-3333-0 Run Start",
+                "time":1408527857541,
+                "moment":4374
+            },
+            {
+                "info":"js-1-3333-0 Run End",
+                "time":1408527857542,
+                "moment":4375
+            },
+            {
+                "info":"js-1-3333-0 Load Event",
+                "time":1408527857543,
+                "moment":4376
+            },
+            {
+                "info":"h2标签显示",
+                "time":1408527857544,
+                "moment":4377
+            },
+            {
+                "info":"css-0-3000 Load Event",
+                "time":1408527857553,
+                "moment":4386
+            },
+            {
+                "info":"js-2-5555-0 Run Start",
+                "time":1408527858643,
+                "moment":5476
+            },
+            {
+                "info":"js-2-5555-0 Run End",
+                "time":1408527858644,
+                "moment":5477
+            },
+            {
+                "info":"js-2-5555-0 Load Event",
+                "time":1408527858645,
+                "moment":5478
+            },
+            {
+                "info":"h3标签显示",
+                "time":1408527858646,
+                "moment":5479
+            },
+            {
+                "info":"h4标签显示",
+                "time":1408527858652,
+                "moment":5485
+            },
+            {
+                "info":"css-1-3000 Load Event",
+                "time":1408527858680,
+                "moment":5513
+            },
+            {
+                "info":"img-0-3000 Load Event",
+                "time":1408527860727,
+                "moment":7560
+            },
+            {
+                "info":"js-0-7777-0 Run Start",
+                "time":1408527861824,
+                "moment":8657
+            },
+            {
+                "info":"js-0-7777-0 Run End",
+                "time":1408527861824,
+                "moment":8657
+            },
+            {
+                "info":"js-0-7777-0 Load Event",
+                "time":1408527861826,
+                "moment":8659
+            },
+            {
+                "info":"h5标签显示",
+                "time":1408527861827,
+                "moment":8660
+            },
+            {
+                "info":"img-1-5000 Load Event",
+                "time":1408527863685,
+                "moment":10518
+            },
+            {
+                "info":"js-1-9999-1999 Run Start",
+                "time":1408527864161,
+                "moment":10994
+            },
+            {
+                "info":"js-1-9999-1999 Run End",
+                "time":1408527866160,
+                "moment":12993
+            },
+            {
+                "info":"js-1-9999-1999 Load Event",
+                "time":1408527866168,
+                "moment":13001
+            },
+            {
+                "info":"h6标签显示",
+                "time":1408527866170,
+                "moment":13003
+            },
+            {
+                "info":"p标签显示",
+                "time":1408527866178,
+                "moment":13011
+            },
+            {
+                "info":"body标签结束",
+                "time":1408527866179,
+                "moment":13012
+            },
+            {
+                "info":"html标签结束",
+                "time":1408527866180,
+                "moment":13013
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408527866182,
+                "moment":13015
+            },
+            {
+                "info":"img-2-4000 Load Event",
+                "time":1408527866184,
+                "moment":13017
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408527866185,
+                "moment":13018
+            },
+            {
+                "info":"END",
+                "time":1408527866185,
+                "moment":13018
+            },
+            {
+                "info":"css-0-12000 Load Event",
+                "time":1408527866224,
+                "moment":13057
+            }
+        ],
+        "Native":[
+            {
+                "info":"head标签内资源加载开始",
+                "time":1408528000642,
+                "moment":9
+            },
+            {
+                "info":"js-0-1000-1500 Run Start",
+                "time":1408528003711,
+                "moment":3078
+            },
+            {
+                "info":"js-0-1000-1500 Run End",
+                "time":1408528005217,
+                "moment":4584
+            },
+            {
+                "info":"js-0-1000-1500 Load Event",
+                "time":1408528005228,
+                "moment":4595
+            },
+            {
+                "info":"head标签内资源加载结束",
+                "time":1408528005231,
+                "moment":4598
+            },
+            {
+                "info":"head标签结束",
+                "time":1408528005231,
+                "moment":4598
+            },
+            {
+                "info":"body标签开始",
+                "time":1408528005242,
+                "moment":4609
+            },
+            {
+                "info":"js-0-1111-0 Run Start",
+                "time":1408528005254,
+                "moment":4621
+            },
+            {
+                "info":"js-0-1111-0 Run End",
+                "time":1408528005255,
+                "moment":4622
+            },
+            {
+                "info":"js-0-1111-0 Load Event",
+                "time":1408528005256,
+                "moment":4623
+            },
+            {
+                "info":"h1标签显示",
+                "time":1408528005257,
+                "moment":4624
+            },
+            {
+                "info":"js-1-3333-0 Run Start",
+                "time":1408528005260,
+                "moment":4627
+            },
+            {
+                "info":"js-1-3333-0 Run End",
+                "time":1408528005260,
+                "moment":4627
+            },
+            {
+                "info":"js-1-3333-0 Load Event",
+                "time":1408528005261,
+                "moment":4628
+            },
+            {
+                "info":"h2标签显示",
+                "time":1408528005269,
+                "moment":4636
+            },
+            {
+                "info":"js-2-5555-0 Run Start",
+                "time":1408528006456,
+                "moment":5823
+            },
+            {
+                "info":"js-2-5555-0 Run End",
+                "time":1408528006457,
+                "moment":5824
+            },
+            {
+                "info":"js-2-5555-0 Load Event",
+                "time":1408528006461,
+                "moment":5828
+            },
+            {
+                "info":"h3标签显示",
+                "time":1408528006462,
+                "moment":5829
+            },
+            {
+                "info":"h4标签显示",
+                "time":1408528006466,
+                "moment":5833
+            },
+            {
+                "info":"img-0-3000 Load Event",
+                "time":1408528008279,
+                "moment":7646
+            },
+            {
+                "info":"js-0-7777-0 Run Start",
+                "time":1408528009565,
+                "moment":8932
+            },
+            {
+                "info":"js-0-7777-0 Run End",
+                "time":1408528009567,
+                "moment":8934
+            },
+            {
+                "info":"js-0-7777-0 Load Event",
+                "time":1408528009568,
+                "moment":8935
+            },
+            {
+                "info":"h5标签显示",
+                "time":1408528009570,
+                "moment":8937
+            },
+            {
+                "info":"img-1-5000 Load Event",
+                "time":1408528010268,
+                "moment":9635
+            },
+            {
+                "info":"js-1-9999-1999 Run Start",
+                "time":1408528011982,
+                "moment":11349
+            },
+            {
+                "info":"js-1-9999-1999 Run End",
+                "time":1408528013982,
+                "moment":13349
+            },
+            {
+                "info":"js-1-9999-1999 Load Event",
+                "time":1408528013987,
+                "moment":13354
+            },
+            {
+                "info":"h6标签显示",
+                "time":1408528013988,
+                "moment":13355
+            },
+            {
+                "info":"img-2-4000 Load Event",
+                "time":1408528013991,
+                "moment":13358
+            },
+            {
+                "info":"p标签显示",
+                "time":1408528015728,
+                "moment":15095
+            },
+            {
+                "info":"body标签结束",
+                "time":1408528015733,
+                "moment":15100
+            },
+            {
+                "info":"html标签结束",
+                "time":1408528015742,
+                "moment":15109
+            },
+            {
+                "info":"DOM Loaded",
+                "time":1408528015749,
+                "moment":15116
+            },
+            {
+                "info":"Window Loaded",
+                "time":1408528015766,
+                "moment":15133
+            },
+            {
+                "info":"END",
+                "time":1408528015767,
+                "moment":15134
+            }
+        ]
+    }
+}

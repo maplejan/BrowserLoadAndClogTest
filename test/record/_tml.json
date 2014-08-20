@@ -1,0 +1,18 @@
+{
+    "OS X 10.9.3": {
+        "Chrome 36.0.1985.143": 0,
+        "Safari 7.0.4 (9537.76.4)": 0,
+        "Firefox 31.0": 0
+    },
+    "iOS 7.1.2": {
+        "Safari": 0,
+        "Chrome 36.0.1985.57": 0,
+        "MicroMessenger 5.4": 0
+    },
+    "Android 4.0.4": {
+        "Chrome 34.0.1847.114": 0,
+        "UCBrowser 9.9.2.467": 0,
+        "MQQBrowser 5.2": 0,
+        "Native": 0
+    }
+}
