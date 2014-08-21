@@ -55,12 +55,3 @@
 
     window.BLACT = BLACT;
 })(window, document);
-
-i = 0;
-var f1 = function f2() {
-    console.log(f2);
-};
-
-var foo = function f() {
-    return typeof f;
-};
